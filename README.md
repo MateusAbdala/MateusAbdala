@@ -18,7 +18,7 @@
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="My love - Liliana" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/399481_nyVRekCB.png">
+  <img align="right" alt="Myself" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/31054714">
 </div>
   
   ##
